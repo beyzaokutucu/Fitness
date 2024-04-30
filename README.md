@@ -7,7 +7,7 @@
   
   <img src="https://github.com/beyzaokutucu/Fitness/blob/main/login.jpeg" width="300"/>
 
-- **Ana Sayfa: ** Kullanıcılar kendilerine atanmış spor programlarını görüntüleyebilir ve bu programlarla etkileşimde bulunabilirler.
+- **Ana Sayfa:** Kullanıcılar kendilerine atanmış spor programlarını görüntüleyebilir ve bu programlarla etkileşimde bulunabilirler.
   
    <img src="https://github.com/beyzaokutucu/Fitness/blob/main/home.jpeg" width="300"/>
 
